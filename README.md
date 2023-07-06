@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23FF7070D&size=18&vCenter=true&height=16&lines=Hi+I'm+Arjun!;I'm+a+software+engineer+with+3+YOE.;Problems+are+merely+puzzles+waiting+to+be+solved,+and+I+thrive+on+unraveling+their+complexity+with+innovative+solutions.)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23FF7070D&size=18&vCenter=true&height=16&lines=Hi+I'm+Arjun!;I'm+a+software+engineer+with+3+YOE.;Problems+are+merely+puzzles+waiting+to+be+solved,+and+I+thrive+on+unraveling+their+complexity+with+innovative+solutions.)
 
 
 [![Email][1]](mailto:arjun.krishnakumar@utdallas.edu)
