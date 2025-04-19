@@ -6,7 +6,7 @@
 [![Leetcode][3]](https://leetcode.com/ArjKris/)
 
 
-Highly skilled Software Engineer with three years of industry experience, dedicated to developing innovative solutions and driving technological advancements. Proficient in Developing, Implementing, Configuring, and Maintaining cutting-edge backend services using DotNet Core and Apache Spark.
+Highly skilled Software Engineer with four years of industry experience, dedicated to developing innovative solutions and driving technological advancements. Proficient in Developing, Implementing, Configuring, and Maintaining cutting-edge backend services using DotNet Core and Apache Spark.
 
 With a strong analytical mindset and exceptional computer skills, I have consistently delivered excellent results, enabling organizations to thrive in today's competitive landscape. Currently pursuing a Master's in Information and Technology Management at the prestigious The University of Texas at Dallas, I am equipped with the latest knowledge and best practices in the field.
 
