@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23FF7070D&size=18&vCenter=true&height=16&lines=Hi+I'm+Arjun!;I'm+a+software+engineer+with+4+YOE.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23FF7070D&size=18&vCenter=true&height=16&lines=Hi+I'm+Arjun!;I'm+a+software+engineer+with+5+YOE.)
 
 
 [![Email][1]](mailto:arjun.krishnakumar@utdallas.edu)
@@ -6,12 +6,9 @@
 [![Leetcode][3]](https://leetcode.com/ArjKris/)
 
 
-Highly skilled Software Engineer with four years of industry experience, dedicated to developing innovative solutions and driving technological advancements. Proficient in Developing, Implementing, Configuring, and Maintaining cutting-edge backend services using DotNet Core and Apache Spark.
+A Software Engineer with over 5 years of experience building backend and data systems. I’ve worked across domains including IoT and telecommunications, healthcare, and financial investment platforms. 
 
-With a strong analytical mindset and exceptional computer skills, I have consistently delivered excellent results, enabling organizations to thrive in today's competitive landscape. Currently pursuing a Master's in Information and Technology Management at the prestigious The University of Texas at Dallas, I am equipped with the latest knowledge and best practices in the field.
-
-I would love to grow my skills in the field of Big Data. 
-For inquiries, please contact me via Gmail button above.
+I enjoy working with data and solving complex problems.
 
 <!--
 
